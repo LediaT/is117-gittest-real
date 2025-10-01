@@ -1,0 +1,1 @@
+ ls -la lists all files, including hidden ones, in long format. It shows permissions, owner, size, and timestamps.
