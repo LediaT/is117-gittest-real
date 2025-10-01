@@ -1,0 +1,1 @@
+ An absolute path starts at the root / and points to the same place from anywhere. A relative path is based on the current location, such as ../images.
