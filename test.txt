@@ -1,1 +1,2 @@
 Starting test
+Test completed successfully
