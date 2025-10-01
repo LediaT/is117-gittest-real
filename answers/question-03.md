@@ -1,0 +1,1 @@
+ A Git branch is a separate line of development with its own commit history. It lets work proceed on a feature without touching the main branch.
