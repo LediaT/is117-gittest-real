@@ -1,0 +1,1 @@
+ A directory is created with mkdir foldername. mkdir -p a/b/c creates nested folders in one command.
