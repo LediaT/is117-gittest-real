@@ -1,0 +1,1 @@
+ rm -rf is dangerous because it force-deletes files and folders recursively without prompting. A small typo can erase important data.
