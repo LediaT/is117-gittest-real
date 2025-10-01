@@ -1,0 +1,1 @@
+ An empty file can be created with touch file.txt. Another valid method is : > file.txt.
