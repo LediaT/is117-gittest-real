@@ -1,0 +1,1 @@
+ The last 20 lines of a file are shown with tail -n 20 filename. This displays only the most recent lines at the end.
