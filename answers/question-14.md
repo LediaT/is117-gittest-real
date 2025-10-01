@@ -1,0 +1,1 @@
+ cat prints a file’s contents to the terminal and can join multiple files. It’s handy for quick viewing or simple concatenation.
