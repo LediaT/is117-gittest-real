@@ -1,0 +1,1 @@
+ cd /path/to/dir moves to an absolute path. cd .. goes up one level, and cd ~ moves to the home directory.
