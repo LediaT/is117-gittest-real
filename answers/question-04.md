@@ -1,0 +1,1 @@
+ git merge combines another branch’s commits into the branch in use. If changes clash, conflicts must be resolved before the merge completes.
