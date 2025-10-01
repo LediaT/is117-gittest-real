@@ -1,0 +1,1 @@
+ cp copies a file or directory and leaves the original in place. mv moves or renames it, so the original location no longer holds the file.
