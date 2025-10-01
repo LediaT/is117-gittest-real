@@ -1,0 +1,1 @@
+ git status shows the current branch and which files are changed, staged, or untracked. It only reports the state and does not modify anything.

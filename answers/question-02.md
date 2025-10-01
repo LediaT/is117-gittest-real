@@ -1,0 +1,1 @@
+ git add places selected changes into the staging area. git commit records those staged changes in the repository with a message.
