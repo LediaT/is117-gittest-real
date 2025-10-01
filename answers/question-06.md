@@ -1,0 +1,1 @@
+ pwd prints the full path of the current working directory. It answers “where are we” in the filesystem.
