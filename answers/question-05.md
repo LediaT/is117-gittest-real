@@ -1,0 +1,1 @@
+ git pull fetches from the remote and merges into the local branch. git push sends local commits to the remote repository.
